@@ -1,0 +1,39 @@
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\datos.dll.config
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\datos.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\datos.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\datos.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\entidad.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\entidad.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\bin\Debug\entidad.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.vbprojResolveAssemblyReference.cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.Resources.resources
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.vbproj.GenerateResource.Cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\datos\obj\Debug\datos.pdb
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\datos.dll.config
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\datos.dll
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\datos.pdb
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\datos.xml
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\entidad.dll
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\entidad.pdb
+D:\Mis Archivos\pruebalogin\datos\bin\Debug\entidad.xml
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.Resources.resources
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.vbproj.GenerateResource.Cache
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.dll
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.xml
+D:\Mis Archivos\pruebalogin\datos\obj\Debug\datos.pdb
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\datos.dll.config
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\datos.dll
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\datos.pdb
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\datos.xml
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\entidad.dll
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\entidad.pdb
+E:\Mis Archivos\colegio\pruebalogin\datos\bin\Debug\entidad.xml
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.vbprojResolveAssemblyReference.cache
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.Resources.resources
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.vbproj.GenerateResource.Cache
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.dll
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.xml
+E:\Mis Archivos\colegio\pruebalogin\datos\obj\Debug\datos.pdb

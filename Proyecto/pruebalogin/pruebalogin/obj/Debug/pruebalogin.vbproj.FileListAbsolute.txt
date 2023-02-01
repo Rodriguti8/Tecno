@@ -1,0 +1,61 @@
+c:\users\pc28lab4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe.config
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\pruebalogin.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\pruebalogin.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\datos.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\entidad.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\datos.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\datos.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\entidad.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\bin\Debug\entidad.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbprojResolveAssemblyReference.cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Form1.resources
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Resources.resources
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbproj.GenerateResource.Cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.exe
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Administrador.resources
+E:\MIS ARCHIVOS\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe.config
+E:\MIS ARCHIVOS\pruebalogin\pruebalogin\obj\Debug\pruebalogin.exe
+E:\MIS ARCHIVOS\pruebalogin\pruebalogin\obj\Debug\pruebalogin.xml
+E:\MIS ARCHIVOS\pruebalogin\pruebalogin\obj\Debug\pruebalogin.pdb
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe.config
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.exe
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.xml
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.pdb
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\pruebalogin.pdb
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\pruebalogin.xml
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\datos.dll
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\entidad.dll
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\datos.pdb
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\datos.xml
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\entidad.pdb
+D:\Mis Archivos\pruebalogin\pruebalogin\bin\Debug\entidad.xml
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Administrador.resources
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Form1.resources
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Resources.resources
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbproj.GenerateResource.Cache
+D:\Mis Archivos\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Usuario.resources
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe.config
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.exe
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.xml
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.pdb
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\pruebalogin.exe
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\pruebalogin.pdb
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\pruebalogin.xml
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\datos.dll
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\entidad.dll
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\datos.pdb
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\datos.xml
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\entidad.pdb
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\bin\Debug\entidad.xml
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbprojResolveAssemblyReference.cache
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Administrador.resources
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Form1.resources
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Resources.resources
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Usuario.resources
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.vbproj.GenerateResource.Cache
+E:\Mis Archivos\colegio\pruebalogin\pruebalogin\obj\Debug\pruebalogin.Secretario.resources

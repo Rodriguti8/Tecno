@@ -1,0 +1,18 @@
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\bin\Debug\entidad.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\bin\Debug\entidad.pdb
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\bin\Debug\entidad.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.vbprojResolveAssemblyReference.cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.Resources.resources
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.vbproj.GenerateResource.Cache
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.dll
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.xml
+C:\Users\PC28LAB4\documents\visual studio 2015\Projects\pruebalogin\entidad\obj\Debug\entidad.pdb
+D:\Mis Archivos\pruebalogin\entidad\bin\Debug\entidad.dll
+D:\Mis Archivos\pruebalogin\entidad\bin\Debug\entidad.pdb
+D:\Mis Archivos\pruebalogin\entidad\bin\Debug\entidad.xml
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.vbprojResolveAssemblyReference.cache
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.Resources.resources
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.vbproj.GenerateResource.Cache
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.dll
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.xml
+D:\Mis Archivos\pruebalogin\entidad\obj\Debug\entidad.pdb
